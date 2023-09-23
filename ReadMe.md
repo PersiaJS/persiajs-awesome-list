@@ -11,6 +11,14 @@ Welcome to the vibrant world of PersiaJS AwesomeList, an invaluable compilation 
 ## Webinars
 - FrontEnd Path by Ehsan Gazar - [Link](https://maktabkhooneh.org/course/%D9%88%D8%A8%DB%8C%D9%86%D8%A7%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%B4%D8%BA%D9%84%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%D8%AA-%D8%A7%D9%86%D8%AF-mk2835/)
 
+## Programming Youtube Channels
+- https://www.youtube.com/@kalagar2
+- https://www.youtube.com/@sarvinStyle
+- https://www.youtube.com/@neonlearn
+- https://www.youtube.com/@SKDev11
+- https://www.youtube.com/@HappyDeveloper
+- https://www.youtube.com/@JadiMirmirani
+
 ## Git
 - Git by Vahid Naeini - [Link](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-git-mk796/)
 - Git by Ali Bigdeli - [Link](https://thealibigdeli.ir/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-git)
